@@ -14,7 +14,6 @@ namespace UDPServer
         {
             const string ip = "127.0.0.1";
             const int port = 8081;  // Поменяли порт
-            const int backlog = 5;
 
             var UDPEndPoint = new IPEndPoint(IPAddress.Parse(ip), port);    // Создали подключение
 
