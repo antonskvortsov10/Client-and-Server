@@ -2,4 +2,4 @@
 
 Client and Server using sockets (TCP and UDP)
 
-This program is written using .NET Framework.
+Console .NET Framework application.
